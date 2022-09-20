@@ -1,0 +1,1 @@
+The semi-physical manifestation of entropy / chaos / disorder. Universally, there are always equal amounts of [[mana]] and [[flux]], measured by the amount of time and information they represent.
