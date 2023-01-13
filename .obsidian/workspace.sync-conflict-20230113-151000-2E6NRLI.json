@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "49709ecf0e07319d",
+    "type": "split",
+    "children": [
+      {
+        "id": "84b25b34ed73a5ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03dc24f585d672b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Void Atlas/Laws/flux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dca60935cc3a7f1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c0dad702334d927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae93a0081856f9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d321028a4610be6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31746c65e080f168",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "2dd4a77d4f693125",
+    "type": "split",
+    "children": [
+      {
+        "id": "20604117b14b1937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aefdd5154724b02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Void Atlas/Laws/flux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63b2f23e01d21681",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Void Atlas/Laws/flux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "415522a7a6d1e61f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d81237e68bd95b72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Void Atlas/Laws/flux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "03dc24f585d672b1",
+  "lastOpenFiles": [
+    "Void Atlas/Laws/mana.md",
+    "Void Atlas/Laws/ki.md",
+    "Void Atlas/Laws/mana condensation.md",
+    "Touch The Sky (The 16th)/The Sixteenth.md",
+    "README.md",
+    "Hel.md",
+    "mana crystals.md",
+    "Void Atlas/Void Atlas.md",
+    "void beast.md",
+    "Sol.md"
+  ]
+}
