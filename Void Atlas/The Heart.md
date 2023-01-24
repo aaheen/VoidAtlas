@@ -1,0 +1,1 @@
+The origin of all orbits; an intersection of every world's path through [[README|the Atlas]]. Every [[pulse]], all worlds pass through the heart almost simultaneously, and emerge again "after".

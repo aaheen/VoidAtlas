@@ -1,5 +1,7 @@
 ---
-aliases: ["Void Atlas"]
+aliases: ["Void Atlas","the Atlas"]
+created: 2023-01-15T01:22:41-06:00
+updated: 2023-01-15T01:42:31-06:00
 ---
 # Void Atlas
 ### Knowledge doesn't disagree, only people do
@@ -7,19 +9,30 @@ aliases: ["Void Atlas"]
 **Void Atlas** is a collaborative worldbuilding project started by [Erik Heen](https://heen.dev) in June 2022. Other early contributors were Ryan Studham, Ally Studham, and Gabe Robertson. Heavily inspired by the cosmere from Brandon Sanderson's *Stormlight Archives*, it's mainly comprised of 19 (inhabited) planets, [[Sol|one star]], 
 six nebulae, the anomaly aka [[The Heart]], and two [[void beast]]s ([[Hel]], [[Rau]]).
 
+## The Absolute Balance
+
+Of the entire universe,
+$$
+\Huge m + \varphi = f + \omega
+$$
+$\large \text{Let}\ m =$ [[mana]]
+$\large \text{Let}\ f =$ [[flux]]
+$\large \text{Let}\ \omega =$ order
+$\large \text{Let}\ \varphi =$ disorder
+
 # Collaboration
 ### It's a big grab bag
 
 The following folders are just places to chuck ideas that you have that you feel like explicitly sharing, or writing down but you're not sure if they fit into your current project. Anyone is free to copy things from these folders into their own projects:
 
 - `Character`
-- `City`
+- `City` (catchall for settlement / village / metropolis)
 - `Dungeon`
 - `Event`
 - `Group`
 - `Item`
 - `Lore`  (i.e. stories, legends, ancient tales)
-- `Nation` (kingdoms, states, nations, i.e. any group of people that principally inhabits a specific territory, or any large shared identity)
+- `Place` (kingdoms, states, nations, i.e. any group of people that principally inhabits a specific territory, or any large shared identity)
 
 Ideally, you would be modifying any really significant items at least very slightly so there isn't straight up duplicate content in different worlds. 
 

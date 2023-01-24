@@ -1,0 +1,1 @@
+[[ki]] go blue juice mode. yum blue raspberry slushie with enough potential energy per volume to make the Reagan administration cum repeatedly.
